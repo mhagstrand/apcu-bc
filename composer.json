@@ -1,5 +1,5 @@
 {
-    "name": "apcu_bc",
+    "name": "krakjoe/apcu_bc",
     "type": "extension",
     "license": [
         "PHP License"
